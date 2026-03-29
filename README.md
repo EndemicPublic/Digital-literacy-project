@@ -75,7 +75,7 @@ digital-literacy-project/
 | Task 2 | GitHub Profile | [github.com](https://github.com) |
 | Task 2 | LinkedIn | [linkedin.com](https://www.linkedin.com) |
 | Task 3 | HackerRank | [hackerrank.com](https://www.hackerrank.com) |
-| Task 3 | Google Forms Quiz | [Link to your form] |
+| Task 3 | Google Forms Quiz | https://forms.gle/t7JRyGNutZCMtDso7 |
 | Task 5 | Cyber Crime Portal | [cybercrime.gov.in](https://cybercrime.gov.in) |
 
 ---
