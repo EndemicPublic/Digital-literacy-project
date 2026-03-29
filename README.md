@@ -1,25 +1,21 @@
-# Digital Literacy Project
+ Digital Literacy Project
 
-## Student Information
+ Student Information
 
 | Field | Details |
 |-------|---------|
-| **Name** | [Your Name] |
-| **Registration No.** | [Your Register Number] |
-| **Branch** | [Your Branch/Department] |
-| **Year** | [Your Year of Study] |
-| **Course Code** | [Course Code] |
-| **Date** | March 2026 |
-
+| **Name** | GVS PRATHIK |
+| **Registration No.** | 25BCE11342 |
+| **Branch** | Coumputer science |
 ---
 
-## Project Overview
+ Project Overview
 
 This repository contains my submission for the **Digital Literacy Awareness Project** as part of the Student Digital Ambassador program. The project covers five key modules designed to build comprehensive digital skills essential for modern students.
 
 ---
 
-## Repository Structure
+ Repository Structure
 
 ```
 digital-literacy-project/
@@ -47,34 +43,31 @@ digital-literacy-project/
 
 ---
 
-## Task Summaries
+ Task Summaries
 
-### Task 1: Digital Literacy Awareness Infographic (Module 1)
+ Task 1: Digital Literacy Awareness Infographic (Module 1)
 - **Tool Used:** Canva
 - **Topics Covered:** What is Digital Literacy, Safe Internet Practices, Professional Online Presence
-- [View Presentation Notes](task-1-presentation/infographic-notes.md)
 
-### Task 2: Build Your Student Digital Portfolio (Module 2)
+
+ Task 2: Build Your Student Digital Portfolio (Module 2)
 - **Platforms:** GitHub, LinkedIn, Kaggle
-- [View Portfolio Setup](task-2-portfolio/)
 
-### Task 3: Explore Coding & Collaboration Platforms (Module 3)
+ Task 3: Explore Coding & Collaboration Platforms (Module 3)
 - **Coding Platform:** HackerRank
 - **Collaboration Tool:** Google Forms
-- [View Platform Activity](task-3-platforms/)
 
-### Task 4: Professional Email & Etiquette Guide (Module 4)
+
+ Task 4: Professional Email & Etiquette Guide (Module 4)
 - **Deliverables:** Two professional emails, Social Media Checklist
-- [View Email Drafts](task-4-email-etiquette/)
 
-### Task 5: Cybercrime Awareness Case Study (Module 5)
+
+ Task 5: Cybercrime Awareness Case Study (Module 5)
 - **Topic:** Phishing Attacks
 - **Deliverables:** Case Study, Prevention Checklist
-- [View Cybercrime Resources](task-5-cybercrime/)
-
 ---
 
-## Quick Links
+ Quick Links
 
 | Task | Resource | Link |
 |------|----------|------|
@@ -95,11 +88,11 @@ digital-literacy-project/
 
 ---
 
-## Acknowledgments
+ Acknowledgments
 
 - **Course:** Digital Literacy & Professional Skills
-- **Institution:** [Your College/University Name]
-- **Academic Year:** 2025-2026
+- **Institution:** VIT BHOPAL UNI
+
 
 ---
 
