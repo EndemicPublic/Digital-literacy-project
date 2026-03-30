@@ -8,8 +8,8 @@ GitHub is used to showcase coding projects and manage repositories. I created a 
 ### 2. LinkedIn
 LinkedIn is a professional networking platform. I updated my profile by adding my education details, including my degree, university, and expected graduation timeline.
 
-### 3. Kaggle
-Kaggle is a platform for data science and machine learning. I created a profile and added a bio to start exploring datasets, competitions, and practical learning opportunities.
+### 3.  Stack Overflow
+stack overflow is a platform for data science and machine learning. I created a profile and added a bio to start exploring datasets, competitions, and practical learning opportunities.
 
 ## Purpose
 
@@ -19,4 +19,4 @@ These platforms help in building a strong digital presence, improving technical 
 
 - GitHub profile
 - LinkedIn profile (Education section)
-- Kaggle profile
+- Stack overflow profile
